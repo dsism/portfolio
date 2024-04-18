@@ -16,20 +16,21 @@
   grid-row: auto;
 }
 
+.icons-area {
+  margin: 30px 0px;
+}
+
 .icon {
   height: 30px;
+  margin: 0px 5px;
 }
 
 .photo {
   border-radius: 5%;
-  height: 25rem;
+  height: 23rem;
 }
 
 @media (max-width: 1020px) {
-  #root {
-    padding: 3rem;
-  }
-
   .grid-parent {
     grid-template-areas:
       "top"
@@ -46,6 +47,6 @@
   }
 
   img {
-    height: 23rem;
+    height: 18rem;
   }
 }
