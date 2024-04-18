@@ -46,7 +46,7 @@
     grid-area: top;
   }
 
-  img {
-    height: 18rem;
+  .photo {
+    height: 20rem
   }
 }
