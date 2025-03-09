@@ -20,7 +20,7 @@ export const App = () => {
           </div>
         </div>
         <div className='grid-portion grid-img'>
-          <img className='photo' alt='Danielle Ismerim - Full Stack Developer' src='photo.jpeg' />
+          <img className='photo' alt='Danielle Ismerim - Full Stack Developer' src='photo.jpg' />
         </div>
       </div>
     </div>
