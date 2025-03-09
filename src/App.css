@@ -30,6 +30,25 @@
   height: 23rem;
 }
 
+.typing-container {
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.cursor {
+  width: 10px;
+  height: 1rem;
+  background-color: black;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
 @media (max-width: 1020px) {
   .grid-parent {
     grid-template-areas:
