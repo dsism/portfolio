@@ -53,9 +53,9 @@ export const App = () => {
               <span className="cursor">_</span>
             </div>
             <p>
-              I'm Danielle Ismerim, a web developer skilled in technologies
-              built on top of JavaScript, such as React, NodeJS, TypeScript,
-              etc.
+              I am Danielle Ismerim, a full-stack developer with 8+ years of
+              experience, skilled in technologies built using JavaScript, such
+              as React, React Native, Node.js, TypeScript, and more.
             </p>
             <p>
               While this portfolio is under development, feel free to visit my
